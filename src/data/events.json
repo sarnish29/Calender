@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2025-06-02",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#4CAF50",
+    "title": "Q3 Planning Kickoff",
+    "description": "Quarterly planning session with team leads"
+  },
+  {
+    "date": "2025-06-05",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#2196F3",
+    "title": "Product Demo",
+    "description": "Demo new features for stakeholders"
+  },
+  {
+    "date": "2025-06-09",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "color": "#FF9800",
+    "title": "Sprint Retrospective",
+    "description": "Review completed sprint and improvements"
+  },
+  {
+    "date": "2025-06-12",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#9C27B0",
+    "title": "UX Workshop",
+    "description": "New user flow brainstorming"
+  },
+  {
+    "date": "2025-06-16",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "color": "#F44336",
+    "title": "Budget Review",
+    "description": "Mid-year budget adjustments"
+  },
+  {
+    "date": "2025-06-18",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "color": "#607D8B",
+    "title": "Team Building",
+    "description": "Virtual escape room activity"
+  },
+  {
+    "date": "2025-06-19",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "color": "#795548",
+    "title": "Tech Talk",
+    "description": "Introduction to WebAssembly"
+  },
+  {
+    "date": "2025-06-23",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#00BCD4",
+    "title": "1:1 with Manager",
+    "description": "Career growth discussion"
+  },
+  {
+    "date": "2025-06-25",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "color": "#E91E63",
+    "title": "Hackathon Prep",
+    "description": "Planning for company hackathon"
+  },
+  {
+    "date": "2025-06-30",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#CDDC39",
+    "title": "Q2 Wrap-up",
+    "description": "End of quarter review and celebration"
+  }
+]
